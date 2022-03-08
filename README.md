@@ -16,11 +16,10 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="php" src="	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
-
 ### Últimos trabalhos:
-- [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
-- [Criando Infinite Scroll - React Native](https://github.com/mauriicin/raspagem-de-dados-sintegra)<br/>
+- [Aplicativo The NCM](https://play.google.com/store/apps/details?id=com.mauriciosouza.thencm&hl=pt_BR&gl=US)<br/>
+- [Coletor de Dados do Sintegra](https://github.com/mauriicin/raspagem-de-dados-sintegra)<br/>
 
