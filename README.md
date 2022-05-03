@@ -24,4 +24,5 @@
 ### Últimos trabalhos:
 - [Aplicativo The NCM](https://play.google.com/store/apps/details?id=com.mauriciosouza.thencm&hl=pt_BR&gl=US)<br/>
 - [Coletor de Dados do Sintegra](https://github.com/mauriicin/raspagem-de-dados-sintegra)<br/>
+- [Rádio TheHits](https://github.com/mauriicin/Radio-The-Hits)<br/>
 
