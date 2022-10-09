@@ -4,6 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mauriciosouza/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mauricinsouza)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/mauriicin/)
+[![Stack Overflow](https://img.shields.io/badge/stackoverflow-916FF?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11777214/maur%c3%adcio-souza)
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriicin&show_icons=true&theme=dracula&count_private=true)
 
@@ -24,4 +25,3 @@
 - [Aplicativo The NCM](https://play.google.com/store/apps/details?id=com.mauriciosouza.thencm&hl=pt_BR&gl=US)<br/>
 - [Coletor de Dados do Sintegra](https://github.com/mauriicin/raspagem-de-dados-sintegra)<br/>
 - [Rádio TheHits](https://github.com/mauriicin/Radio-The-Hits)<br/>
-
