@@ -7,7 +7,7 @@
 [![Stack Overflow](https://img.shields.io/badge/stackoverflow-916FF?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11777214/maur%c3%adcio-souza)
 
 ![Mauriocio GitHub stats](https://github-readme-stats.vercel.app/api?username=mssoliveira&theme=dark&show_icons=true&count_private=true)
-<a href="https://app.daily.dev/mssoliveira"><img src="https://github.com/mssoliveira/mssoliveira/blob/main/devcard.svg" width="350" alt="Maurício Souza's Dev Card"/></a>
+<a href="https://app.daily.dev/mssoliveira"><img align="right" src="https://github.com/mssoliveira/mssoliveira/blob/main/devcard.svg" width="350" alt="Maurício Souza's Dev Card"/></a>
 
 ## Tecnologias que eu uso no meu dia
 
