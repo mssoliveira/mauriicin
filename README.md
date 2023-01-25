@@ -6,7 +6,9 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/mauriicin/)
 [![Stack Overflow](https://img.shields.io/badge/stackoverflow-916FF?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11777214/maur%c3%adcio-souza)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriicin&show_icons=true&theme=dracula&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=mssoliveira&show_icons=true&theme=dracula&count_private=true)
+
+![Mauriocio GitHub stats](https://github-readme-stats.vercel.app/api?username=mssoliveira&theme=dark&show_icons=true)
 <a href="https://app.daily.dev/mssoliveira"><img src="https://api.daily.dev/devcards/4627a8b983af4c149cd717d913ea721a.png?r=lm5" width="400" alt="Maurício Souza's Dev Card"/></a>
 
 
