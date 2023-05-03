@@ -1,6 +1,6 @@
 <a href="https://app.daily.dev/mssoliveira"><img align="right" src="https://github.com/mssoliveira/mssoliveira/blob/main/devcard.svg" width="350" alt="Maurício Souza's Dev Card"/></a>
 
-## Olá! Sou o Maurício, Seja Bem Vindo ao meu Mundo. 🖐️
+# Olá! Sou o Maurício, Seja Bem Vindo ao meu Mundo. 🖐️
 
 [![Blog](https://img.shields.io/website?label=mauriciosouza.com.br&style=for-the-badge&url=https://mauriciosouza.com.br/)](https://mauriciosouza.com.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mauriciosouza/)
@@ -10,8 +10,7 @@
 
 ![Mauriocio GitHub stats](https://github-readme-stats.vercel.app/api?username=mssoliveira&theme=dark&show_icons=true&count_private=true)
 
-
-## Perfil de Desenvolvedor
+# Perfil de Desenvolvedor
 <div style="display: inline_block">
   <a href="https://apps.apple.com/us/developer/mauricio-oliveira/id1675763974" target="_blank">
   <img align="center" alt="js" src="https://img.shields.io/badge/Apple-FFFFFF?style=for-the-badge&logo=apple&logoColor=black" />
@@ -21,7 +20,7 @@
   </a>
 </div>
 
-## Tecnologias que eu uso no meu dia
+# Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
