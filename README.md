@@ -13,12 +13,11 @@
 
 ## Perfil de Desenvolvedor
 <div style="display: inline_block">
-  <a href="url" target="_blank">
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=apple&logoColor=black" />
+  <a href="https://apps.apple.com/us/developer/mauricio-oliveira/id1675763974" target="_blank">
+  <img align="center" alt="js" src="https://img.shields.io/badge/Apple-FFFFFF?style=for-the-badge&logo=apple&logoColor=black" />
   </a>
-  
-  <a href="url" target="_blank">
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=apple&logoColor=black" />
+  <a href="https://play.google.com/store/apps/dev?id=8532575680035803312&hl=pt_BR&gl=US" target="_blank">
+  <img align="center" alt="js" src="https://img.shields.io/badge/Android-FFFFFF?style=for-the-badge&logo=android&logoColor=black" />
   </a>
 </div>
 
